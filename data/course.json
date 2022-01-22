@@ -1,0 +1,27 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "new-master-one"
+  },
+  "course_image": {
+    "content": "811d9855-e438-42e4-8022-fee9e20af54b",
+    "website": "new-master-one"
+  },
+  "course_title": "Course MB 1",
+  "course_description": "",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "123456abc",
+  "course_image_thumbnail": {
+    "content": "811d9855-e438-42e4-8022-fee9e20af54b",
+    "website": "new-master-one"
+  },
+  "learning_resource_types": [],
+  "site_uid": "72656851-f754-40c1-8e61-a29668391273"
+}
